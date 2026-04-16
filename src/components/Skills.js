@@ -1,5 +1,7 @@
 import React from 'react';
 
+const pub = process.env.PUBLIC_URL;
+
 const skillsData = [
   { name: 'Cisco IOS CLI', level: 30 },
   { name: 'React JS', level: 10 },
@@ -13,22 +15,22 @@ const skillsData = [
 const certificates = [
   {
     name: 'Cisco Networking Basics',
-    image: '/cert1.jpg',
+    image: `${pub}/cert1.jpg`,
     description: 'Fundamentals of networking and Cisco CLI operations.'
   },
   {
     name: 'Web Development Basics',
-    image: '/cert2.jpg',
+    image: `${pub}/cert2.jpg`,
     description: 'HTML, CSS, and JavaScript foundational certificate.'
   },
   {
     name: 'React Basics',
-    image: '/cert3.jpg',
+    image: `${pub}/cert3.jpg`,
     description: 'Introduction to React components, props, and state.'
   },
   {
     name: 'JavaScript Basics',
-    image: '/cert4.jpg',
+    image: `${pub}/cert4.jpg`,
     description: 'Core JavaScript fundamentals including variables, functions, and loops.'
   }
 ];
