@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bulahao-final_project/static/css/main.26aaf15b.css",
-    "main.js": "/bulahao-final_project/static/js/main.1ef022ae.js",
+    "main.js": "/bulahao-final_project/static/js/main.2809ddbc.js",
     "static/media/remixicon.svg?t=1769685282643": "/bulahao-final_project/static/media/remixicon.56e14bd6fc2e5b0bd258.svg",
     "static/media/remixicon.eot?t=1769685282643": "/bulahao-final_project/static/media/remixicon.31ba1400c6b409835452.eot",
     "static/media/remixicon.ttf?t=1769685282643": "/bulahao-final_project/static/media/remixicon.f2f55fcd071e638a7d9c.ttf",
@@ -9,10 +9,10 @@
     "static/media/remixicon.woff2?t=1769685282643": "/bulahao-final_project/static/media/remixicon.271974494fce11723bf5.woff2",
     "index.html": "/bulahao-final_project/index.html",
     "main.26aaf15b.css.map": "/bulahao-final_project/static/css/main.26aaf15b.css.map",
-    "main.1ef022ae.js.map": "/bulahao-final_project/static/js/main.1ef022ae.js.map"
+    "main.2809ddbc.js.map": "/bulahao-final_project/static/js/main.2809ddbc.js.map"
   },
   "entrypoints": [
     "static/css/main.26aaf15b.css",
-    "static/js/main.1ef022ae.js"
+    "static/js/main.2809ddbc.js"
   ]
 }
