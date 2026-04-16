@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bulahao-final_project/static/css/main.df614c70.css",
+    "main.js": "/bulahao-final_project/static/js/main.80c19b72.js",
+    "static/media/remixicon.svg?t=1769685282643": "/bulahao-final_project/static/media/remixicon.56e14bd6fc2e5b0bd258.svg",
+    "static/media/remixicon.eot?t=1769685282643": "/bulahao-final_project/static/media/remixicon.31ba1400c6b409835452.eot",
+    "static/media/remixicon.ttf?t=1769685282643": "/bulahao-final_project/static/media/remixicon.f2f55fcd071e638a7d9c.ttf",
+    "static/media/remixicon.woff?t=1769685282643": "/bulahao-final_project/static/media/remixicon.eaeefc68d4120a79ca83.woff",
+    "static/media/remixicon.woff2?t=1769685282643": "/bulahao-final_project/static/media/remixicon.271974494fce11723bf5.woff2",
+    "index.html": "/bulahao-final_project/index.html",
+    "main.df614c70.css.map": "/bulahao-final_project/static/css/main.df614c70.css.map",
+    "main.80c19b72.js.map": "/bulahao-final_project/static/js/main.80c19b72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df614c70.css",
+    "static/js/main.80c19b72.js"
+  ]
+}
